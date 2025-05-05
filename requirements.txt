@@ -1,6 +1,6 @@
 streamlit
-langchain
-langchain-community
+langchain==0.1.9
 openai
-chromadb
+chromadb==0.4.4
 tiktoken
+pysqlite3-binary
